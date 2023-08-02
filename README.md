@@ -1,1 +1,1 @@
-"# auto-files-arrangement" 
+# auto-files-arrangement
